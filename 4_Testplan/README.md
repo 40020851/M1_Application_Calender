@@ -10,7 +10,7 @@
 
 ## Table no: Low level test plan
 
-| **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
+| **Test ID** | **Description**                                              | **Exp I/P** | **Exp O/P** | **Actual Out** |**Type Of Test**  |    
 |-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
 |  L_01      |Entering the day,month,year | dd/mm/yy | You can find the day | You can find the day |Requirement based |Requirement based |
 |  L_02       |Entering the day,month,year  |  11/10/2003 | Saturday| Saturday |Scenario based    |
