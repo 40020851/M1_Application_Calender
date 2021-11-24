@@ -1,13 +1,13 @@
 # Requirements
            The main aim of our project is used to find the day by entering the day,month and year.
-## Introduction    
+## Introduction     
         A calendar is a system of organizing days. This is done by giving names to periods of time, typically days, weeks, months and years. A date is the designation of a single, specific day within such a system. The calender application presented here is a very simple console application developed using C programming language. A calendar is also a physical record (often  paper) of such a system.
  ## Research  
 - The calendar application built without using graphics properties;instead, it utilizes many windows properties to give the application a colorful look feel.
-- It is compiled in Code::Blocks using GCC compiler.
+- It is compiled in Code :: Blocks using GCC compiler.
 - The application is reduced as much as possible to avoid errors while entering the data.l help to displays day corresponding to a given date.
-- It provides a very simple interface and display days,dates,months and years based on the input given by the user.
-- As Described above can lead to error free, secure, reliable and fast application  system.
+- It provides a very simple interface and display days, dates, months and years based on the input given by the user.
+- As Described above can lead to error free, secure , reliable and fast application system.
 - So In this project will overcome the drawbacks of the previous project and adding some extra features.
 ## Features and Timeline
 - ## Initial cost
