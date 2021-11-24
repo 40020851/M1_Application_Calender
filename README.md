@@ -4,3 +4,4 @@
 [![CI](https://github.com/40020851/M1_Application_Calender/actions/workflows/main.yml/badge.svg)](https://github.com/40020851/M1_Application_Calender/actions/workflows/main.yml)
 [![Static code Cppcheck](https://github.com/40020851/M1_Application_Calender/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/40020851/M1_Application_Calender/actions/workflows/cppcheck.yml)
 [![Contribution Check - Git Inspector](https://github.com/40020851/M1_Application_Calender/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/40020851/M1_Application_Calender/actions/workflows/gitinspector.yml)
+[![Linux C/C++ CI](https://github.com/40020851/M1_Application_Calender/actions/workflows/blank.yml/badge.svg)](https://github.com/40020851/M1_Application_Calender/actions/workflows/blank.yml)
