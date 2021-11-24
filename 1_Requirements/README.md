@@ -31,7 +31,7 @@
 - ## Edit day,month,year
         Used for editing the days,months and years.
 - ## Display
-         Used for display the days,months and years.
+        Used for display the days,months and years.
 ## 4W's and 1'H
 - This project is used to find the day by entering the day, month, and year.
 - Calendars are useful tools for keeping track of upcoming meetings, deadlines, and milestones. They can help you visualize your schedule and remind you of important events, such as holidays and vacation time.
@@ -46,12 +46,12 @@
 - Data corruption is possible,altering or even deleing events.
 - Need physical access to your computer or smartphones to see schedule.
 ## Details requirements
-   ## High Level Requirement: 
+   ## High Level Requirement 
 | ID | Describtion | Status |
 | -- | ----------- | ------ |
 | HLR 1 | Login & Sign up | User need to access |
 | HLR 2 | Add Colors | I trying to give color for the holidays |
-   ## Low Level Requirements:
+   ## Low Level Requirements
 | ID | Describtion | Status |
 | -- | ----------- | ------ |
 | LLR 1 | Basic operation | To generate a day,month,year |
