@@ -61,3 +61,8 @@ A calendar is a system of organizing days. This is done by giving names to perio
 
 # Behavioural diagram
 
+Behavioral diagram dia.png
+
+# Structural diagram
+
+
