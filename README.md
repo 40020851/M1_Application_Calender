@@ -1,5 +1,10 @@
 # M1_Application_Calender
 
+ The aim of our project is You can find the day by entering the day, month and year. For example, if you enter day = 10, month = 03 and year = 1991, it gives you the day ‘Sunday’.
+You can add the note for a particular day.
+If the given month has a note in it, it will display || in that day.
+
+
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/fb59911eded449e98ca67f888825c6a3)](https://app.codacy.com/gh/40020851/M1_Application_Calender?utm_source=github.com&utm_medium=referral&utm_content=40020851/M1_Application_Calender&utm_campaign=Badge_Grade_Settings)
 [![CI](https://github.com/40020851/M1_Application_Calender/actions/workflows/main.yml/badge.svg)](https://github.com/40020851/M1_Application_Calender/actions/workflows/main.yml)
 [![Static code Cppcheck](https://github.com/40020851/M1_Application_Calender/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/40020851/M1_Application_Calender/actions/workflows/cppcheck.yml)
